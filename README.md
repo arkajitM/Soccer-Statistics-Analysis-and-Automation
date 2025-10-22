@@ -1,43 +1,41 @@
-# Soccer-Statistics-Analysis-and-Automation
-Soccer Stats Automation &amp; Analysis using SQL, Python, and Selenium
-⚽ Soccer Stats Automation & Analysis (In Progress)
-🧩 Overview
+# ⚽ Soccer Stats Automation & Analysis *(In Progress)*  
 
-This project automates the collection and analysis of Premier League soccer statistics using Selenium, SQL, and Pandas.
-It’s designed to demonstrate a simple end-to-end data pipeline — from web scraping to database storage and statistical analysis.
+## 🧩 Overview  
+This project automates the collection and analysis of **Premier League soccer statistics** using **Selenium**, **SQL**, and **Pandas**.  
+It’s designed to demonstrate a simple end-to-end data pipeline — from web scraping to database storage and statistical analysis.  
 
-🛠️ Tech Stack
+---
 
-Python – main programming language
+## 🛠️ Tech Stack  
+- **Python** – main programming language  
+- **Selenium** – automates browser scraping of player stats  
+- **SQLite** – stores structured player data  
+- **Pandas** – cleans, aggregates, and visualizes performance trends  
 
-Selenium – automates browser scraping of player stats
+---
 
-SQLite – stores structured player data
+## ⚙️ Current Features *(In Progress)*  
+- [x] Database schema design for players and teams  
+- [ ] Selenium scraper for player stats (goals, assists, minutes)  
+- [ ] SQL integration for automated inserts and queries  
+- [ ] Pandas analysis and visualization of team performance  
 
-Pandas – cleans, aggregates, and visualizes performance trends
+---
 
-⚙️ Current Features (In Progress)
+## 🧠 Planned Enhancements  
+- Add interactive visualizations (Matplotlib / Plotly)  
+- Expand scraping to multiple leagues (La Liga, Serie A, etc.)  
+- Integrate Streamlit dashboard for public viewing  
 
- Database schema design for players and teams
+---
 
- Selenium scraper for player stats (goals, assists, minutes)
+## 📈 Learning Goals  
+- Practice **SQL integration** with Python  
+- Apply **Selenium automation** to structured data workflows  
+- Explore **sports analytics** through database-driven insights  
 
- SQL integration for automated inserts and queries
+---
 
- Pandas analysis and visualization of team performance
-
-🧠 Planned Enhancements
-
-Add interactive visualizations (Matplotlib / Plotly)
-
-Expand scraping to multiple leagues (La Liga, Serie A, etc.)
-
-Integrate Streamlit dashboard for public viewing
-
-📈 Learning Goals
-
-Practice SQL integration with Python
-
-Apply Selenium automation to structured data workflows
-
-Explore sports analytics through database-driven insights
+## 🧾 Status  
+> 🚧 **Project is currently in progress.**  
+> Database schema and initial Pandas analysis complete — Selenium integration and visualization underway.
